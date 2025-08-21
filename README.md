@@ -5,6 +5,7 @@ Database: MySQL
 ORM: Spring Data JPA
 Build Tool: Maven
 🏗️ Project Structure
+
 user-management/
 ├── src/
 │   ├── main/
@@ -19,6 +20,8 @@ user-management/
 │   │       ├── static/
 │   │       └── application.properties
 └── pom.xml
+
+
 📦 Features
 1. User Login
 Simple login form using Thymeleaf.
